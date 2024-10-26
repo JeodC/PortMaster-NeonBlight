@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gamelist>
+	<game>
+		<path>./Neon Blight.sh</path>
+		<name>Neon Blight</name>
+		<desc>Welcome to Eden, the old town district beneath the megacity. Fight through dystopian cyberspace, collect hundreds of firearms, establish an exotic black market gun store, cater to other cyberpunk runners, and work towards the ultimate payday in this neon-rogue-lite, store management, shoot ‘em up.</desc>
+		<image>./darkdeity/cover.png</image>
+		<releasedate>20220711</releasedate>
+		<developer>Bleeding Tapes</developer>
+		<genre>Action, Adventure, Indie</genre>
+	</game>
+</gamelist>
